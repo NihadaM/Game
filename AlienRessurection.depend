@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1645564733 source:c:\users\samir\desktop\new folder (4)\alienresurrection\main.cpp
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<mmsystem.h>
+	<vector>
+	<algorithm>
+	<fstream>
+
+1645472791 c:\users\samir\desktop\new folder (4)\alienresurrection\resource.h
+
+1645878864 source:c:\users\nihada\downloads\projekat\alienresurrection\main.cpp
+	<windows.h>
+	<stdio.h>
+	<math.h>
+	<mmsystem.h>
+	<vector>
+	<algorithm>
+	<fstream>
+
